@@ -39,6 +39,5 @@ The goal of this repository is to:
 * Track learning progress
 
 ## Status
-
-Currently learning Python fundamentals and solving assignments.
+Currently learning Python fundamentals and solving assignments.<br>
 

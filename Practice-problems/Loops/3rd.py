@@ -74,4 +74,4 @@ for num in numbers_list:
 # # Print the result
 # print(*(prime_numbers))      
 
-# In short all code can be written in 3 lines!!!
+# In short all code can be written in 3 lines!!! 
